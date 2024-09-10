@@ -1,4 +1,4 @@
-![logo]([https://github.com/NayanKaremore03/NayanKaremore03/blob/main/banner.png](https://github.com/hieflutter/hieflutter/blob/main/blue%20white%20simple%20computer%20class%20google%20classroom%20header%20%20(1).png))
+<img src="https://github.com/hieflutter/hieflutter/raw/main/blue%20white%20simple%20computer%20class%20google%20classroom%20header%20%20(1).png" alt="Banner" style="width: 100%; height: auto;">
 <h1 align="center">🚀 @hieflutter - Empowering Flutter Developers</h1>
 <h3 align="center">📱💻 We create high-quality mobile and web applications with Flutter, sharing 📚 knowledge and 🎨 UI designs to inspire developers worldwide.</h3>
 
