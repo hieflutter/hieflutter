@@ -1,7 +1,7 @@
 <h1 align="center">🚀 @hieflutter - Empowering Flutter Developers</h1>
 <h3 align="center">📱💻 We create high-quality mobile and web applications with Flutter, sharing 📚 knowledge and 🎨 UI designs to inspire developers worldwide.</h3>
 
-- 👇For app and web development inquiries [https://forms.gle/1t2Wd5qJfX2NzuZS6](https://forms.gle/1t2Wd5qJfX2NzuZS6)
+- 👉For app and web development inquiries [https://forms.gle/1t2Wd5qJfX2NzuZS6](https://forms.gle/1t2Wd5qJfX2NzuZS6)
 
 - 📫 How to reach me **hieflutter@gmail.com**
 
